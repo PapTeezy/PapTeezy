@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PapTeezy
+- 👋 Hi, I’m Frank Kwame Tanno
 - 👀 I’m interested in Data Visualization.
 - 🌱 I’m currently learning  Python
 - 💞️ I’m looking to collaborate on Data Visualization
